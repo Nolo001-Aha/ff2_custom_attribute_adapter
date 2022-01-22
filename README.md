@@ -31,5 +31,5 @@ Add the following structure inside the "characters" section (where you add weapo
 ```
 Weapon Index corresponds to the weapon index that you want to apply the attribute(s) to. It can be a weapon that the boss spawns with (weaponX) or a weapon that the boss gets during the round from it's abilities. Inside the section is a list of all custom attributes you wish to apply. Add as many Indexes and Attributes as you want.
 
-**Debug**
+**Debug:**
 This plugin does not usually indicate it's activity in any way, but if you want to see it applying attributes, please turn on the **ff2_debug** convar on (provided by Freak Fortress 2).
